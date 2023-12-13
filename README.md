@@ -196,3 +196,10 @@ You can define dynamic routes with parameters. For example, to capture a user's 
 }
 </code></pre>
 </ol>
+<h2>ScreenShots</h2>
+<ul>
+    <li><b>Welcome Page - Welcome.twig</b></li>
+    <img src="Welcome_page.JPG" />
+    <li><b>404 | Page Not Found - 404.twig</b></li>
+    <img src="404_page.JPG" />
+</ul>
